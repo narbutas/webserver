@@ -1,0 +1,2 @@
+# defaults file for webserver
+http_port: 80
